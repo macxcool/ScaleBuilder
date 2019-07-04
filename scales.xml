@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scales>
+    <Scale>
+        <Name>Major</Name>
+        <Type>major</Type>
+        <Intervals>2212221</Intervals>
+    </Scale>
+    <Scale>
+        <Name>Natural Minor</Name>
+        <Type>minor</Type>
+        <Intervals>2122122</Intervals>
+    </Scale>
+    <Scale>
+        <Name>Harmonic Minor</Name>
+        <Type>minor</Type>
+        <Intervals>2122131</Intervals>
+    </Scale>
+    <Scale>
+        <Name>Melodic Minor</Name>
+        <Type>minor</Type>
+        <Intervals>2122221</Intervals>
+        <Descending>2212212</Descending>
+    </Scale>
+</Scales>
