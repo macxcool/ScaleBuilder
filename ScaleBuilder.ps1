@@ -59,9 +59,10 @@ function get-nextnote {
     
     process {
         # Get the next letter name in the alphabet
-        $nextNoteLetter = [string][char]([int][char]$initialNote + 1) # only in Powershell ;-)
+        # If we cast this to 'char' and then 'int' we can add to it and then cast it back
+        [string]$nextNoteLetter = [char]([int][char]$initialNote + 1) # only in Powershell ;-)
         if ($nextNoteLetter -eq 'H') {
-            $nextNoteLetter -eq 'A'
+            $nextNoteLetter = 'A'
         }
 
         # Determine if an accidental is needed
