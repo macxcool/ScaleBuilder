@@ -11,5 +11,7 @@ I was inspired by the Python 'Mingus' package, but I wanted to do something simi
 
 # Links
 LilyPond site: http://lilypond.org
+
 LilyPond notation documentation: http://lilypond.org/doc/v2.18/Documentation/notation/index.html
+
 Python Mingus: https://github.com/bspaans/python-mingus
