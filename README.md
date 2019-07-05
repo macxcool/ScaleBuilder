@@ -5,7 +5,7 @@ This is meant to be a Linux, PowerShell Core, modular script for building scale 
 
 I was inspired by the Python 'Mingus' package, but I wanted to do something similar with PowerShell on Linux just because I can ;-). Whenever I get stuck I have a look at Mingus for inspiration so some (a lot?) of my algorithms look similar although I have to do things a bit differently in PowerShell.
 
-I'm also using Visual Studio Code to code this on Linux. I use PowerShell on Windows at work and have been experimenting with that instead of the PowerShell ISE. I like it.
+I'm using Visual Studio Code to code this on Arch Linux. Arch has VS Code in its Community repo. I use PowerShell on Windows at work and have been experimenting with VC Code instead of the PowerShell ISE. I like it.
 
 # List of functions
 
@@ -17,3 +17,7 @@ LilyPond site: http://lilypond.org
 LilyPond notation documentation: http://lilypond.org/doc/v2.18/Documentation/notation/index.html
 
 Python Mingus: https://github.com/bspaans/python-mingus
+
+Visual Studio Code: https://code.visualstudio.com/
+
+Arch Linux: https://www.archlinux.org
