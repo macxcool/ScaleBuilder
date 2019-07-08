@@ -3,7 +3,7 @@
     <Scale>
         <Name>Major</Name>
         <Type>major</Type>
-        <Intervals>2212221</Intervals>
+        <Intervals>2,2,1,2,2,2,1</Intervals>
     </Scale>
     <Scale>
         <Name>Natural Minor</Name>
