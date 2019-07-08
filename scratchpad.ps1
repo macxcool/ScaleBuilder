@@ -28,8 +28,12 @@ $intervals = @{
 }
 
 [int]$octaveCount = 2
+[string]$thisScale = $lilypondHead
+[string]$startNote = $startingNote.Remove($($startingNote.Length - 1))
+[int]$startOctave = $startingNote.Substring($($startingNote.Length - 1))
+[int]$count = 1
 do {
     ForEach ($interval in $majorScale) {
-    
+        
     }    
 } while ($count -le $octaveCount)
